@@ -88,58 +88,58 @@ http://111.40.196.25/PLTV/88888888/224/3221225544/index.m3u8
 #EXTINF:-1  $ExtFilter="央视",CCTV-1
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 #EXTINF:-1  $ExtFilter="央视",CCTV-3
-CCTV-3 综艺,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 #EXTINF:-1  $ExtFilter="央视",CCTV-4
-CCTV-4 中文国际,http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
+http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 #EXTINF:-1  $ExtFilter="央视",CCTV-5
-CCTV-5 体育,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
 #EXTINF:-1  $ExtFilter="央视",CCTV-5+
-CCTV-5+ 体育赛事,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
 #EXTINF:-1  $ExtFilter="央视",CCTV-6
-CCTV-6 电影,http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 #EXTINF:-1  $ExtFilter="央视",CCTV-7
-CCTV-7 国防军事,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
 #EXTINF:-1  $ExtFilter="央视",CCTV-8
-CCTV-8 电视剧,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
 #EXTINF:-1  $ExtFilter="央视",CCTV-9
-CCTV-9 纪录,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
 #EXTINF:-1  $ExtFilter="央视",CCTV-10
-CCTV-10 科教,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
 #EXTINF:-1  $ExtFilter="央视",CCTV-11
-CCTV-11 戏曲,http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
+http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
 #EXTINF:-1  $ExtFilter="央视",CCTV-12
-CCTV-12 社会与法,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
 #EXTINF:-1  $ExtFilter="央视",CCTV-13
-CCTV-13 新闻,http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
+http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
 #EXTINF:-1  $ExtFilter="央视",CCTV-14
-CCTV-14 少儿,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 #EXTINF:-1  $ExtFilter="央视",CCTV-15
-CCTV-15 音乐,http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
+http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 #EXTINF:-1  $ExtFilter="央视",CCTV-17
-CCTV-17 农业农村,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 #EXTINF:-1  $ExtFilter="央视",CCTV5 Sport
-CCTV-5体育,http://ott.js.chinamobile.com/TVOD/3/224/3221228173/index.m3u8
+http://ott.js.chinamobile.com/TVOD/3/224/3221228173/index.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",CNN
-CNN ,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  $ExtFilter="英语频道", Australia
-Australia Channel,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",Australia
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",CNN
-CNN ,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",DW
-德-DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",France24
-法-France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",Arirang
-韩-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",CSBN
-美-CSBN,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",Newsmax
-美-Newsmax TV,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",3ABN
-3ABN,https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",CNC英语
-CNC英语 (720p),http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",Euronews
-Euronews English,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  $ExtFilter="英语频道",FOX
-FOX News Now ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
