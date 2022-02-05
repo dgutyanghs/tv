@@ -1,0 +1,145 @@
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 ,凤凰资讯
+http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://223.110.236.59/ott.js.chinamobile.com/PLTV/3/224/3221228082/index.m3u8
+#EXTINF:-1 tvg-id="1dd815e198d94e5a569f713d9a70859a_72" $ExtFilter="卫视频道",三沙卫视
+http://pull2.ssws.tv/live/SswsTV20210803.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/东南卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_41" $ExtFilter="卫视频道",东南卫视
+http://111.40.196.9/PLTV/88888888/224/3221225583/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/东方卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_31" $ExtFilter="卫视频道",东方卫视
+http://39.134.19.1/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/云南卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_58" $ExtFilter="卫视频道",云南卫视
+http://hwzbout.yunshicloud.com/8xughf/e0bx15.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/兵团卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_61" $ExtFilter="卫视频道",兵团卫视
+http://111.40.196.31/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/内蒙古.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_52" $ExtFilter="卫视频道",内蒙古卫视
+https://live9.m2oplus.nmtv.cn/nmgws/hd/live.m3u8
+#EXTINF:-1 $ExtFilter="卫视频道",冬奥纪实
+http://ott.js.chinamobile.com/TVOD/3/224/3221227711/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/北京卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_30" $ExtFilter="卫视频道",北京卫视
+http://39.134.19.1/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
+#EXTINF:-1 tvg-id="1dd815e198d94e5a569f713d9a70859a_60" $ExtFilter="卫视频道",南方卫视
+http://39.134.19.141/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226218/1.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/厦门卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_68" $ExtFilter="卫视频道",厦门卫视
+http://39.134.39.39/TVOD/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/吉林卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_51" $ExtFilter="卫视频道",吉林卫视
+http://111.40.196.25/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/四川卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_56" $ExtFilter="卫视频道",四川卫视
+http://39.134.65.173/PLTV/88888888/224/3221225861/1.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/天津卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_39" $ExtFilter="卫视频道",天津卫视
+http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/宁夏卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_53" $ExtFilter="卫视频道",宁夏卫视
+http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
+#EXTINF:-1 $ExtFilter="卫视频道",安多卫视
+http://111.40.196.28/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/安徽卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_32" $ExtFilter="卫视频道",安徽卫视
+http://39.134.19.11/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226203/1.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/山东卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_38" $ExtFilter="卫视频道",山东卫视
+http://39.134.19.4/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/山西卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_54" $ExtFilter="卫视频道",山西卫视
+http://111.40.196.9/PLTV/88888888/224/3221225520/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/广东卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_33" $ExtFilter="卫视频道",广东卫视
+http://39.134.19.32/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/广西卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_43" $ExtFilter="卫视频道",广西卫视
+http://39.135.140.227:6610/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="../Channel/Logo/康巴卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_70" $ExtFilter="卫视频道",康巴卫视
+http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
+#EXTINF:-1 tvg-id="1dd815e198d94e5a569f713d9a70859a_63" $ExtFilter="卫视频道",延边卫视
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/新疆卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_57" $ExtFilter="卫视频道",新疆卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/江苏卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_29" $ExtFilter="卫视频道",江苏卫视
+http://39.134.19.8/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/江西卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_50" $ExtFilter="卫视频道",江西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/河北卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_45" $ExtFilter="卫视频道",河北卫视
+http://iptv.tvfix.org/hls/hebhd.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/河南卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_47" $ExtFilter="卫视频道",河南卫视
+http://39.134.39.39/TVOD/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/浙江卫视电视台.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_28" $ExtFilter="卫视频道",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/海南卫视.png" $ExtFilter="卫视频道",海南卫视
+http://39.135.140.227:6610/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="../Channel/Logo/深圳卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_34" $ExtFilter="卫视频道",深圳卫视
+http://223.110.246.71/ott.js.chinamobile.com/PLTV/4/224/3221227695/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/湖北卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_48" $ExtFilter="卫视频道",湖北卫视
+http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/湖南卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_27" $ExtFilter="卫视频道",湖南卫视
+http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/湖南卫视.png" $ExtFilter="卫视频道",湖南卫视HD
+http://39.134.19.32/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/甘肃卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_42" $ExtFilter="卫视频道",甘肃卫视
+http://111.40.196.36/PLTV/88888888/224/3221225572/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/西藏卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_71" $ExtFilter="卫视频道",西藏卫视
+http://111.40.196.31/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/贵州卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_44" $ExtFilter="卫视频道",贵州卫视
+http://111.40.196.25/PLTV/88888888/224/3221225522/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/辽宁卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_36" $ExtFilter="卫视频道",辽宁卫视
+http://ott.js.chinamobile.com/TVOD/3/224/3221228162/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/重庆卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_40" $ExtFilter="卫视频道",重庆卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225692/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/陕西卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_55" $ExtFilter="卫视频道",陕西卫视
+http://129.226.106.4/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/青海卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_59" $ExtFilter="卫视频道",青海卫视
+http://live.geermurmt.com/qhws/sd/live.m3u8
+#EXTINF:-1 tvg-logo="../Channel/Logo/黑龙江卫视.png" tvg-id="1dd815e198d94e5a569f713d9a70859a_46" $ExtFilter="卫视频道",黑龙江卫视
+http://111.40.196.25/PLTV/88888888/224/3221225544/index.m3u8
+#EXTINF:-1  $ExtFilter="央视",CCTV-1
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
+#EXTINF:-1  $ExtFilter="央视",CCTV-3
+CCTV-3 综艺,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
+#EXTINF:-1  $ExtFilter="央视",CCTV-4
+CCTV-4 中文国际,http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
+#EXTINF:-1  $ExtFilter="央视",CCTV-5
+CCTV-5 体育,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
+#EXTINF:-1  $ExtFilter="央视",CCTV-5+
+CCTV-5+ 体育赛事,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
+#EXTINF:-1  $ExtFilter="央视",CCTV-6
+CCTV-6 电影,http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+#EXTINF:-1  $ExtFilter="央视",CCTV-7
+CCTV-7 国防军事,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
+#EXTINF:-1  $ExtFilter="央视",CCTV-8
+CCTV-8 电视剧,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
+#EXTINF:-1  $ExtFilter="央视",CCTV-9
+CCTV-9 纪录,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
+#EXTINF:-1  $ExtFilter="央视",CCTV-10
+CCTV-10 科教,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
+#EXTINF:-1  $ExtFilter="央视",CCTV-11
+CCTV-11 戏曲,http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
+#EXTINF:-1  $ExtFilter="央视",CCTV-12
+CCTV-12 社会与法,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
+#EXTINF:-1  $ExtFilter="央视",CCTV-13
+CCTV-13 新闻,http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
+#EXTINF:-1  $ExtFilter="央视",CCTV-14
+CCTV-14 少儿,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+#EXTINF:-1  $ExtFilter="央视",CCTV-15
+CCTV-15 音乐,http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
+#EXTINF:-1  $ExtFilter="央视",CCTV-17
+CCTV-17 农业农村,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+#EXTINF:-1  $ExtFilter="央视",CCTV5 Sport
+CCTV-5体育,http://ott.js.chinamobile.com/TVOD/3/224/3221228173/index.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",CNN
+CNN ,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  $ExtFilter="英语频道", Australia
+Australia Channel,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",CNN
+CNN ,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",DW
+德-DW,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",France24
+法-France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",Arirang
+韩-Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",CSBN
+美-CSBN,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",Newsmax
+美-Newsmax TV,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",3ABN
+3ABN,https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",CNC英语
+CNC英语 (720p),http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",Euronews
+Euronews English,https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  $ExtFilter="英语频道",FOX
+FOX News Now ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
