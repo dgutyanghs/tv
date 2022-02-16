@@ -1127,26 +1127,11 @@ http://222.175.202.90:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="京津冀鲁豫",山东教育
 http://222.175.202.90:9901/tsfile/live/1011_1.m3u8
 
-#EXTINF:-1 group-title="京津冀鲁豫",山东体育
-http://39.136.48.21:8089/PLTV/88888888/224/3221226075/index.m3u8
-#EXTINF:-1 group-title="京津冀鲁豫",山东公共
-http://39.136.48.21:8089/PLTV/88888888/224/3221226077/index.m3u8
-#EXTINF:-1 group-title="京津冀鲁豫",山东农科
-http://39.136.48.21:8089/PLTV/88888888/224/3221226018/index.m3u8
+
 #EXTINF:-1 group-title="京津冀鲁豫",山东少儿
 http://39.136.48.21:8089/PLTV/88888888/224/3221226195/index.m3u8
 #EXTINF:-1 group-title="京津冀鲁豫",山东文旅
 http://39.136.48.21:8089/PLTV/88888888/224/3221225802/index.m3u8
-#EXTINF:-1 group-title="京津冀鲁豫",山东生活
-http://39.136.48.21:8089/PLTV/88888888/224/3221225841/index.m3u8
-#EXTINF:-1 group-title="京津冀鲁豫",山东综艺
-http://39.136.48.21:8089/PLTV/88888888/224/3221225855/index.m3u8
-#EXTINF:-1 group-title="京津冀鲁豫",山东教育
-http://39.136.48.21:8089/PLTV/88888888/224/3221226049/index.m3u8
-#EXTINF:-1 group-title="京津冀鲁豫",山东齐鲁
-http://39.136.48.25:8089/PLTV/88888888/224/3221226045/index.m3u8
-#EXTINF:-1 group-title="京津冀鲁豫",海看剧场
-http://39.136.48.99:8089/PLTV/88888888/224/3221226053/index.m3u8
 #EXTINF:-1 group-title="京津冀鲁豫",海看少儿
 http://39.136.48.99:8089/PLTV/88888888/224/3221225943/index.m3u8
 #EXTINF:-1 group-title="京津冀鲁豫",海看热播
@@ -1605,12 +1590,7 @@ http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育频道", NBA TV
-https://iptv.jmsooo.com/live/nbatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61c913564dd99.jpg" group-title="体育频道", NBA TV（备）
-http://84.22.33.214:80/nbatv/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61caacb6e8514.jpg" group-title="体育频道",CBS Sports FHD
-http://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育频道",五星体育
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="体育频道",五星体育
@@ -1742,12 +1722,6 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://seb.sason.top/sc/msxw_fhd.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png",民视台湾台
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png",民视综艺台
-http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 group-title="港澳台",民视影剧
-http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 group-title="港澳台",民视旅游
-http://seb.sason.top/ptv/ftv.php?id=ly
 #EXTINF:-1 group-title="港澳台",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png",momo综合台
@@ -2022,47 +1996,6 @@ http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/index
 
 		
 
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K体验",CCTV4K HDR
-http://ott.js.chinamobile.com/TVOD/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K体验",CCTV4K HDR
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K体验",CCTV奥林匹克 4K HDR
-http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d94dc432f07.jpg" group-title="4K体验",爱上4K
-http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d94dc432f07.jpg" group-title="4K体验",爱上4K
-http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d9553179c26.jpg" group-title="4K体验",IPTV 4K
-
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa998b44.jpg" group-title="4K体验",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa998b44.jpg" group-title="4K体验",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93fa850c9b.jpg" group-title="4K体验",FashionTV UHD
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d93ffe1645d.jpg" group-title="4K体验",LOUPE 4K
-http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d9427240000.jpg" group-title="4K体验",Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d943ebc57d7.jpg" group-title="4K体验",Fireplace 4K
-https://d83tn4bh2lria.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-af0ty8yffo1e1-prod/amgfireplace4k/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d94dc42bb55.jpg" group-title="4K体验",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K体验",4K修复
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K体验",4K测试
-http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K体验",4K测试
-http://223.110.236.3/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K体验",4K测试
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.hualigs.cn/image/61d958e02c852.jpg" group-title="4K体验",4K测试
-http://39.134.71.75/ott.js.chinamobile.com/TVOD/3/224/3221228113/index.m3u8
-
-
-
-
-
 
 
 
@@ -2174,37 +2107,37 @@ http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_245_600_t10/c56
 
 
 
-#EXTINF:-1  $ExtFilter="央视",CCTV-1
+#EXTINF:-1  group-title="特别" ",CCTV-1
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
-#EXTINF:-1  $ExtFilter="央视",CCTV-3
+#EXTINF:-1  group-title="特别",CCTV-3
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
-#EXTINF:-1  $ExtFilter="央视",CCTV-4
+#EXTINF:-1 group-title="特别",CCTV-4
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
-#EXTINF:-1  $ExtFilter="央视",CCTV-5
+#EXTINF:-1 group-title="特别",CCTV-5
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
-#EXTINF:-1  $ExtFilter="央视",CCTV-5+
+#EXTINF:-1 group-title="特别",CCTV-5+
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
-#EXTINF:-1  $ExtFilter="央视",CCTV-6
+#EXTINF:-1 group-title="特别",CCTV-6
 http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
-#EXTINF:-1  $ExtFilter="央视",CCTV-7
+#EXTINF:-1 group-title="特别",CCTV-7
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
-#EXTINF:-1  $ExtFilter="央视",CCTV-8
+#EXTINF:-1 group-title="特别",CCTV-8
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
-#EXTINF:-1  $ExtFilter="央视",CCTV-9
+#EXTINF:-1 group-title="特别",CCTV-9
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
-#EXTINF:-1  $ExtFilter="央视",CCTV-10
+#EXTINF:-1 group-title="特别",CCTV-10
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
-#EXTINF:-1  $ExtFilter="央视",CCTV-11
+#EXTINF:-1 group-title="特别",CCTV-11
 http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
-#EXTINF:-1  $ExtFilter="央视",CCTV-12
+#EXTINF:-1 group-title="特别",CCTV-12
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
-#EXTINF:-1  $ExtFilter="央视",CCTV-13
+#EXTINF:-1 group-title="特别",CCTV-13
 http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
-#EXTINF:-1  $ExtFilter="央视",CCTV-14
+#EXTINF:-1 group-title="特别",CCTV-14
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
-#EXTINF:-1  $ExtFilter="央视",CCTV-15
+#EXTINF:-1 group-title="特别",CCTV-15
 http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
-#EXTINF:-1  $ExtFilter="央视",CCTV-17
+#EXTINF:-1 group-title="特别",CCTV-17
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
-#EXTINF:-1  $ExtFilter="央视",CCTV5 Sport
+#EXTINF:-1 group-title="特别",CCTV5 Sport
 http://ott.js.chinamobile.com/TVOD/3/224/3221228173/index.m3u8
