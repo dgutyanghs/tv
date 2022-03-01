@@ -3,20 +3,9 @@
 
 #EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-
-#EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-http://223.110.235.4/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
-
-#EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-http://117.169.120.138:8080/live/fhzixun/.m3u8
 
 #EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
-
-#EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
-http://iptv.tvfix.org/hls/fhzw.m3u8
 
 
 #EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
@@ -28,25 +17,17 @@ http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 #EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 
-#EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-
-
-#EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-#EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png",凤凰香港
-http://223.110.245.136/ott.js.chinamobile.com/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="台湾211" tvg-logo="https://rb.gy/8vzhqs",港台电视新闻直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 #EXTINF:-1 group-title="台湾211" tvg-logo="https://rb.gy/8vzhqs",港台电视新闻直播
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 
-#EXTINF:-1 tvg-id="6043" tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="台湾211",东森幼幼
-http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="台湾211",ANIMAX
-http://59.125.101.187:8516/http/61.221.81.94:8088/hls/70/812/ch39.m3u8
+#EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhongtianxinwen.png",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+
+
+#EXTINF:-1 tvg-id="7239" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="台湾211",NHK中文
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 
 
