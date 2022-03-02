@@ -22,6 +22,9 @@ http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u
 #EXTINF:-1 group-title="台湾211" tvg-logo="https://rb.gy/8vzhqs",港台电视新闻直播
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台湾211",三立iNews
+http://seb.sason.top/sc/slinews_fhd.m3u8
+
 #EXTINF:-1 group-title="台湾211" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhongtianxinwen.png",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 
