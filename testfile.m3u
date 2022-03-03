@@ -33,7 +33,12 @@ http://seb.sason.top/sc/ztxw_fhd.m3u8
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 
-
+#EXTINF:-1 ,Now新聞332台
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 ,Now直播331台
+https://api.leonardpark.dev/live/now/331
+#EXTINF:-1 ,Now直播331台
+http://livetv.dnsfor.me:80/channel.3.m3u8
 
 
 
@@ -2052,3 +2057,46 @@ http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
 #EXTINF:-1 group-title="特别",CCTV5 Sport
 http://ott.js.chinamobile.com/TVOD/3/224/3221228173/index.m3u8
+
+#EXTINF:-1 group-title="外语"  ,BBCworld
+http://125.227.210.55:10246/VideoInput/play.ts
+#EXTINF:-1  group-title="外语" ,BBCworld
+http://125.227.210.37:10246/VideoInput/play.ts
+#EXTINF:-1 group-title="外语" ,BBCWorldNews
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 group-title="外语" ,DW
+http://125.227.210.55:8934/VideoInput/play.ts
+#EXTINF:-1 group-title="外语" ,DW
+http://125.227.210.37:8934/VideoInput/play.ts
+
+#EXTINF:-1 group-title="外语" ,FRANCE
+http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="外语" ,HBO
+http://125.227.210.55:16027/VideoInput/play.ts
+
+#EXTINF:-1 group-title="外语" ,上海外语
+http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="外语" ,上海外语频道高清
+http://iptv.tvfix.org/hls/shwypdhd.m3u8
+
+#EXTINF:-1 group-title="外语" ,明珠台
+http://iptv.tvfix.org/hls/pearl.m3u8
+#EXTINF:-1 group-title="外语" ,明珠台
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+#EXTINF:-1 group-title="外语" ,明珠台
+http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+#EXTINF:-1 group-title="外语" ,明珠台(第2声道)
+http://iptv.tvfix.org/hls/pearl2.m3u8
+
+
+#EXTINF:-1 group-title="外语" ,ABC Australia HD
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="外语" ,ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+#EXTINF:-1 group-title="外语" ,ABC News US HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 group-title="外语" ,CNN新闻频道
+https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
