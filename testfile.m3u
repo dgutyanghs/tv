@@ -1147,7 +1147,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 group-title="外语" ,ABC News US HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 group-title="外语" ,CNN新闻频道
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNN.png" tvg-id="7106" tvg-name="CNNHeadlineNews" group-title="港澳及国外",CNN头条新闻台
 https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:-1 tvg-id="7239" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="外语",NHK中文
