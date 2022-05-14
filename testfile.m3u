@@ -88,8 +88,8 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1652424403/ei/
 #EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台湾211",三立iNews
 http://seb.sason.top/sc/slinews_fhd.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻台" group-title="台湾211",TVBS 新闻台
-http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+# #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" tvg-id="6073" tvg-name="TVBS新闻台" group-title="台湾211",TVBS 新闻台
+# http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
 
 # EXTINF:-1 tvg-id="7102" tvg-name="TVBS国际新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="台湾211",TVBS国际+YT
 # https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1652423418/ei/maZ9YseFOouQlQTjhJw4/ip/210.61.91.202/id/NvTpgbMPC3U.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr1---sn-un57en7e.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/4ocVC0vBMLV07Iy1VOzcbcXxp8aj/vprv/1/playlist_type/DVR/initcwndbps/5970/mh/Te/mm/44/mn/sn-un57en7e/ms/lva/mv/m/mvi/1/pl/20/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1652401471/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgBUz5MDPWRk7iyTKdhVe_GiMuX0ARp5cLY_D1JQZRp3sCIQDoX9JhGOKbStgkMkwpOGxqrPcVEL8T3ZbONjIOyf7NpQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAMjXBQDQ11YvWfSEc_TGzxyOvU_v8P6Jlc9BAL309boiAiBPbcV2SnZkuxTpP67TjPw6wrw6GjG503YPSAqhmZS0vQ%3D%3D/playlist/index.m3u8
