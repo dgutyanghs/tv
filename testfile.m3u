@@ -54,10 +54,8 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 
 #EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台湾211",年代新闻台
 http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾211",东森新闻台
-http://50.7.218.42:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
-#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾211",东森财经新闻
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
+# #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾211",东森新闻台
+# http://50.7.218.42:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="台湾211",非凡新闻台
 http://50.7.218.42:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 
@@ -81,6 +79,9 @@ http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw
 
 #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾211",东森新闻
 http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台湾211",东森财经新闻
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
 
 # #EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台YT" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾211",东森liveYT
 # https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1652691892/ei/VL-BYpLQKZrM2roPsKuu8A4/ip/210.61.91.203/id/HIbV2WRek14.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr6---sn-un57sn76.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/4ocVCxt7NcnPCvkyLomhePVG01n7/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/6390/mh/IR/mm/44/mn/sn-un57sn76/ms/lva/mv/m/mvi/6/pl/20/rmhost/rr5---sn-un57sn76.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1652669796/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgMqbNjRhwFMo8KGWgZFdsvafHwhPwGEidtX81-Yjez18CIQCytdXQ0c9T6xKglqbHbvRhrCLRkZ5DtlE_NGu2fOgeqQ%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mm,mn,ms,mv,mvi,pl,rmhost/lsig/AG3C_xAwRgIhAL6PeaLraSAjQsAHhDqUITyLahJtjsBEZBC7SkwDvny7AiEAu0YkG0r1LHoeM6BkNz0FDwas4HLMZerVVV8w6LXPpW8%3D/playlist/index.m3u8
